@@ -63,12 +63,9 @@ pip install pandas numpy matplotlib
 - Python-related courses are highly popular.
 
 ## Contributing
-Feel free to fork the repository and submit pull requests if you would like to add new features or enhance the analysis.
-
-## License
-This project is licensed under the MIT License.
+Feel free to fork the repository and submit pull requests if you would like to add new features or enhance the analysis..
 
 ---
-**Author:** Your Name  
+**Author:** Teesha  
 **GitHub:** [Teesha-a](https://github.com/Teesha-a)
 
