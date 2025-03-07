@@ -70,5 +70,5 @@ This project is licensed under the MIT License.
 
 ---
 **Author:** Your Name  
-**GitHub:** [your-username](https://github.com/your-username)
+**GitHub:** [Teesha-a](https://github.com/Teesha-a)
 
